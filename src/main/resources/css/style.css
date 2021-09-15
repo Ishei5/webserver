@@ -1,0 +1,16 @@
+body {
+    background: rgb(50, 50, 50);
+}
+#fire {
+    width: 100%:
+    height: 100%;
+    font-size:72pt;
+    text-align: center;
+    text-shadow:
+        0px -1px 2px rgb(255, 255, 0),
+        1px -3px 3px rgb(255, 204, 0),
+        1px -5px 4px rgb(255, 153, 0),
+        -3px -7px 5px rgb(255, 102, 0),
+        1px -9px 6px rgb(255, 51, 0),
+        3px -11px 7px rgb(255, 0, 0);
+}
